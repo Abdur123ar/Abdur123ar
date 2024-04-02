@@ -11,5 +11,6 @@ Abdur123ar/Abdur123ar is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 celiar
-Sony xperia 10 ii kali nethunter 
+Sony xperia 10 ii kali nethunter
+readme md
 
